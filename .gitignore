@@ -1,0 +1,33 @@
+# Build and release folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Flash Builder / Eclipse
+.settings/
+
+# Executables and packages
+*.swf
+*.air
+*.ipa
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*~
+
+# Project files (.project, .actionScriptProperties, .flexProperties)
+# are kept — they contain compiler settings for Flash Builder.
